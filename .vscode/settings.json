@@ -1,0 +1,5 @@
+{
+  "java.project.referencedLibraries": [
+    "backend/src/mysql-connector-j-26.10.0/mysql-connector-j-26.10.0.jar"
+  ]
+}
